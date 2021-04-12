@@ -2,7 +2,7 @@
 
 *Turning doodle into DSL file*
 
-![Preview](https://github.com/sketch2code-mit/doodle2code/blob/master/results.jpeg)
+![Preview](https://github.com/sketch2code-mit/doodle2code/blob/master/results.JPG)
 
 There has been a growing interest in automating the conversion of a graphical user interface screenshot created by a designer into code. It is typical for designers and people who want to make a website to find some reference website designs to define the style of the website, draw a simple sketch, and mock up it in low and high resolution. However, due to the time and skill limitation, it is hard for those who design and mock up to do the developing work at the same time. Thus, this paper aims to take the existing literature to the next step by exploring transforming a sketch and style reference to the HTML code. A sketch is restricted to a portrait image of a black-and-white, rough drawing without a lot of details. An existing website screenshot or picture works as supplementary material for stylizing the website with CSS code.
 
