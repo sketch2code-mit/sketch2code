@@ -14,7 +14,7 @@ There has been a growing interest in automating the conversion of a graphical us
 - numpy
 - Pillow
 
-## Data Generating
+## Data Generation
 ![Preview](https://github.com/sketch2code-mit/doodle2code/blob/master/dataset.png)
 
 ### DSL generation
