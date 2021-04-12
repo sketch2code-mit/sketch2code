@@ -8,10 +8,11 @@ There has been a growing interest in automating the conversion of a graphical us
 
 ## Set up 
 
-### Prerequisites
+### Dependencies
 - python3
-- pip
-
+- pytorch
+- numpy
+- Pillow
 
 ## Data Generating
 ![Preview](https://github.com/sketch2code-mit/doodle2code/blob/master/dataset.png)
