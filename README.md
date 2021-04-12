@@ -23,7 +23,7 @@ Then we compiled the generated DSL codes into HTML, styled the compiled HTML cod
 
 
 ## Network Architecture
-![Preview](https://github.com/sketch2code-mit/doodle2code/blob/master/architecture.jpeg)
+![Preview](https://github.com/sketch2code-mit/doodle2code/blob/master/Architecture_doodle2code.jpg)
 
 Our method uses a Pytorch version of Tony Beltramelli’s [Pix2Code](https://github.com/tonybeltramelli/pix2code) network, [implemented by Vaibhav Yadav](https://github.com/VaibhavYadav/pytorch\_pix2code). We changed the code to train it on a dataset of screenshots of HTMLs that were adjusted with CSS to look like sketches. We also train the model on our own dataset of automatically generated HTML files where we increase the number of tokens.
 
